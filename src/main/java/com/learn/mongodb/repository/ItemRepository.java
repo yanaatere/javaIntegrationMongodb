@@ -1,4 +1,4 @@
-package com.learn.mongodb.Repository;
+package com.learn.mongodb.repository;
 
 import com.learn.mongodb.model.GroceryItem;
 import org.springframework.data.mongodb.repository.MongoRepository;
